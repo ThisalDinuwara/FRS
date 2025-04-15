@@ -1,0 +1,239 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\source\\repos\\FRS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{50541B01-1724-477D-8B1A-23BEA829A7BB}|FRS\\FRS.csproj|c:\\users\\user\\source\\repos\\frs\\frs\\properties\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50541B01-1724-477D-8B1A-23BEA829A7BB}|FRS\\FRS.csproj|solutionrelative:frs\\properties\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50541B01-1724-477D-8B1A-23BEA829A7BB}|FRS\\FRS.csproj|C:\\Users\\User\\source\\repos\\FRS\\frs\\properties\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50541B01-1724-477D-8B1A-23BEA829A7BB}|FRS\\FRS.csproj|solutionrelative:frs\\properties\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50541B01-1724-477D-8B1A-23BEA829A7BB}|FRS\\FRS.csproj|C:\\Users\\User\\source\\repos\\FRS\\frs\\properties\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50541B01-1724-477D-8B1A-23BEA829A7BB}|FRS\\FRS.csproj|solutionrelative:frs\\properties\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50541B01-1724-477D-8B1A-23BEA829A7BB}|FRS\\FRS.csproj|C:\\Users\\User\\source\\repos\\FRS\\frs\\properties\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50541B01-1724-477D-8B1A-23BEA829A7BB}|FRS\\FRS.csproj|solutionrelative:frs\\properties\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50541B01-1724-477D-8B1A-23BEA829A7BB}|FRS\\FRS.csproj|C:\\Users\\User\\source\\repos\\FRS\\frs\\properties\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50541B01-1724-477D-8B1A-23BEA829A7BB}|FRS\\FRS.csproj|solutionrelative:frs\\properties\\form2.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50541B01-1724-477D-8B1A-23BEA829A7BB}|FRS\\FRS.csproj|C:\\Users\\User\\source\\repos\\FRS\\frs\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50541B01-1724-477D-8B1A-23BEA829A7BB}|FRS\\FRS.csproj|solutionrelative:frs\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50541B01-1724-477D-8B1A-23BEA829A7BB}|FRS\\FRS.csproj|C:\\Users\\User\\source\\repos\\FRS\\frs\\properties\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50541B01-1724-477D-8B1A-23BEA829A7BB}|FRS\\FRS.csproj|solutionrelative:frs\\properties\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50541B01-1724-477D-8B1A-23BEA829A7BB}|FRS\\FRS.csproj|C:\\Users\\User\\source\\repos\\FRS\\frs\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50541B01-1724-477D-8B1A-23BEA829A7BB}|FRS\\FRS.csproj|solutionrelative:frs\\connection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50541B01-1724-477D-8B1A-23BEA829A7BB}|FRS\\FRS.csproj|C:\\Users\\User\\source\\repos\\FRS\\frs\\properties\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50541B01-1724-477D-8B1A-23BEA829A7BB}|FRS\\FRS.csproj|solutionrelative:frs\\properties\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50541B01-1724-477D-8B1A-23BEA829A7BB}|FRS\\FRS.csproj|C:\\Users\\User\\source\\repos\\FRS\\frs\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50541B01-1724-477D-8B1A-23BEA829A7BB}|FRS\\FRS.csproj|solutionrelative:frs\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50541B01-1724-477D-8B1A-23BEA829A7BB}|FRS\\FRS.csproj|C:\\Users\\User\\source\\repos\\FRS\\frs\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50541B01-1724-477D-8B1A-23BEA829A7BB}|FRS\\FRS.csproj|solutionrelative:frs\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50541B01-1724-477D-8B1A-23BEA829A7BB}|FRS\\FRS.csproj|C:\\Users\\User\\source\\repos\\FRS\\frs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50541B01-1724-477D-8B1A-23BEA829A7BB}|FRS\\FRS.csproj|solutionrelative:frs\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50541B01-1724-477D-8B1A-23BEA829A7BB}|FRS\\FRS.csproj|C:\\Users\\User\\source\\repos\\FRS\\frs\\properties\\passenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{50541B01-1724-477D-8B1A-23BEA829A7BB}|FRS\\FRS.csproj|solutionrelative:frs\\properties\\passenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{50541B01-1724-477D-8B1A-23BEA829A7BB}|FRS\\FRS.csproj|C:\\Users\\User\\source\\repos\\FRS\\frs\\properties\\passenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{50541B01-1724-477D-8B1A-23BEA829A7BB}|FRS\\FRS.csproj|solutionrelative:frs\\properties\\passenger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form4.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FRS\\FRS\\Properties\\Form4.cs",
+              "RelativeDocumentMoniker": "FRS\\Properties\\Form4.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FRS\\FRS\\Properties\\Form4.cs [Design]",
+              "RelativeToolTip": "FRS\\Properties\\Form4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-06T01:42:49.95Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FRS\\FRS\\Properties\\Form3.cs",
+              "RelativeDocumentMoniker": "FRS\\Properties\\Form3.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FRS\\FRS\\Properties\\Form3.cs [Design]",
+              "RelativeToolTip": "FRS\\Properties\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T08:17:38.612Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form5.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FRS\\FRS\\Properties\\Form5.cs",
+              "RelativeDocumentMoniker": "FRS\\Properties\\Form5.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FRS\\FRS\\Properties\\Form5.cs [Design]",
+              "RelativeToolTip": "FRS\\Properties\\Form5.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T08:17:35.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FRS\\FRS\\Properties\\Login.cs",
+              "RelativeDocumentMoniker": "FRS\\Properties\\Login.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FRS\\FRS\\Properties\\Login.cs [Design]",
+              "RelativeToolTip": "FRS\\Properties\\Login.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T08:17:19.557Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FRS\\FRS\\Properties\\Form2.cs",
+              "RelativeDocumentMoniker": "FRS\\Properties\\Form2.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FRS\\FRS\\Properties\\Form2.cs",
+              "RelativeToolTip": "FRS\\Properties\\Form2.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAD4vzIAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T05:25:56.735Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form2.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FRS\\FRS\\Properties\\Form2.Designer.cs",
+              "RelativeDocumentMoniker": "FRS\\Properties\\Form2.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FRS\\FRS\\Properties\\Form2.Designer.cs",
+              "RelativeToolTip": "FRS\\Properties\\Form2.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T05:24:04.132Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FRS\\FRS\\Form1.cs",
+              "RelativeDocumentMoniker": "FRS\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FRS\\FRS\\Form1.cs",
+              "RelativeToolTip": "FRS\\Form1.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAD4vyoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T04:54:45.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FRS\\FRS\\Program.cs",
+              "RelativeDocumentMoniker": "FRS\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FRS\\FRS\\Program.cs",
+              "RelativeToolTip": "FRS\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T04:54:30.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Connection.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FRS\\FRS\\Connection.cs",
+              "RelativeDocumentMoniker": "FRS\\Connection.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FRS\\FRS\\Connection.cs",
+              "RelativeToolTip": "FRS\\Connection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T04:54:25.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FRS\\FRS\\Properties\\Form2.cs",
+              "RelativeDocumentMoniker": "FRS\\Properties\\Form2.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FRS\\FRS\\Properties\\Form2.cs [Design]",
+              "RelativeToolTip": "FRS\\Properties\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T04:54:16.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FRS\\FRS\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "FRS\\Form1.Designer.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FRS\\FRS\\Form1.Designer.cs",
+              "RelativeToolTip": "FRS\\Form1.Designer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T04:53:52.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FRS\\FRS\\Form1.cs",
+              "RelativeDocumentMoniker": "FRS\\Form1.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FRS\\FRS\\Form1.cs [Design]",
+              "RelativeToolTip": "FRS\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-09T04:53:51.907Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Passenger.cs",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FRS\\FRS\\Properties\\Passenger.cs",
+              "RelativeDocumentMoniker": "FRS\\Properties\\Passenger.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FRS\\FRS\\Properties\\Passenger.cs",
+              "RelativeToolTip": "FRS\\Properties\\Passenger.cs",
+              "ViewState": "AQIAAH8AAAAAAAAAAAAcwL4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T09:19:50.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Passenger.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\User\\source\\repos\\FRS\\FRS\\Properties\\Passenger.cs",
+              "RelativeDocumentMoniker": "FRS\\Properties\\Passenger.cs",
+              "ToolTip": "C:\\Users\\User\\source\\repos\\FRS\\FRS\\Properties\\Passenger.cs [Design]",
+              "RelativeToolTip": "FRS\\Properties\\Passenger.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-08T09:19:27.404Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
